@@ -1,0 +1,315 @@
+Return-Path: <Christelle.BURGUERA@st.com>
+Delivered-To: olivier.prouvost@opcoach.com
+Received: from spool.mail.gandi.net (mspool2-d.mgt.gandi.net [10.0.21.133])
+	by nmboxes103.sd2.0x35.net (Postfix) with ESMTP id F125040FCB
+	for <olivier.prouvost@opcoach.com>; Wed, 22 Jul 2015 11:28:53 +0200 (CEST)
+Received: from mfilter14-d.gandi.net (mfilter14-d.gandi.net [217.70.178.142])
+	by spool.mail.gandi.net (Postfix) with ESMTP id ECD7117807C
+	for <olivier.prouvost@opcoach.com>; Wed, 22 Jul 2015 11:28:53 +0200 (CEST)
+X-Virus-Scanned: Debian amavisd-new at mfilter14-d.gandi.net
+Received: from spool.mail.gandi.net ([10.0.21.133])
+	by mfilter14-d.gandi.net (mfilter14-d.gandi.net [10.0.15.180]) (amavisd-new, port 10024)
+	with ESMTP id plpXj1lIGK2O for <olivier.prouvost@opcoach.com>;
+	Wed, 22 Jul 2015 11:28:51 +0200 (CEST)
+X-Policy: Greylisted 300 seconds
+Received: from mx07-00178001.pphosted.com (mx07-00178001.pphosted.com [62.209.51.94])
+	by spool.mail.gandi.net (Postfix) with ESMTPS id 1C08A1780CF
+	for <olivier.prouvost@opcoach.com>; Wed, 22 Jul 2015 11:28:50 +0200 (CEST)
+Received: from pps.filterd (m0046670.ppops.net [127.0.0.1])
+	by mx07-00178001.pphosted.com (8.14.5/8.14.5) with SMTP id t6M9Ad6q003500
+	for <olivier.prouvost@opcoach.com>; Wed, 22 Jul 2015 11:13:15 +0200
+Received: from beta.dmz-eu.st.com (beta.dmz-eu.st.com [164.129.1.35])
+	by mx07-00178001.pphosted.com with ESMTP id 1vsk56d1tb-1
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=NOT)
+	for <olivier.prouvost@opcoach.com>; Wed, 22 Jul 2015 11:13:15 +0200
+Received: from zeta.dmz-eu.st.com (zeta.dmz-eu.st.com [164.129.230.9])
+	by beta.dmz-eu.st.com (STMicroelectronics) with ESMTP id B62063F
+	for <olivier.prouvost@opcoach.com>; Wed, 22 Jul 2015 09:13:13 +0000 (GMT)
+Received: from Webmail-eu.st.com (safex1hubcas4.st.com [10.75.90.69])
+	by zeta.dmz-eu.st.com (STMicroelectronics) with ESMTP id 9803F2539
+	for <olivier.prouvost@opcoach.com>; Wed, 22 Jul 2015 09:13:13 +0000 (GMT)
+Received: from Safex1mail5.st.com ([fe80::e860:6123:e5ab:d646]) by
+ safex1hubcas4.st.com ([::1]) with mapi; Wed, 22 Jul 2015 11:13:12 +0200
+From: Christelle BURGUERA <Christelle.BURGUERA@st.com>
+To: "Olivier Prouvost (olivier.prouvost@opcoach.com)"
+	<olivier.prouvost@opcoach.com>
+CC: Claude DELNONDEDIEU <claude.delnondedieu@st.com>
+Date: Wed, 22 Jul 2015 11:13:12 +0200
+Subject: Formation Eclipse
+Thread-Topic: Formation Eclipse
+Thread-Index: AdDEVP+wK7rq8yTKTFCpHiHcv2bgkw==
+Message-ID: <2A026F51AD5B0C46A9DEAED30AAB1C13040EC641@SAFEX1MAIL5.st.com>
+Accept-Language: fr-FR, en-US
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+acceptlanguage: fr-FR, en-US
+Content-Type: multipart/alternative;
+	boundary="_000_2A026F51AD5B0C46A9DEAED30AAB1C13040EC641SAFEX1MAIL5stco_"
+MIME-Version: 1.0
+X-Proofpoint-Virus-Version: vendor=fsecure engine=2.50.10432:5.14.151,1.0.33,0.0.0000
+ definitions=2015-07-22_03:2015-07-22,2015-07-22,1970-01-01 signatures=0
+
+--_000_2A026F51AD5B0C46A9DEAED30AAB1C13040EC641SAFEX1MAIL5stco_
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Bonjour Olivier,
+
+J'ai chang=E9 de projet r=E9cemment et mon rempla=E7ant aurait besoin d'une=
+ formation. Mon ancien manager (en copie) souhaite l'inscrire et aurait bes=
+oin de tes conseils pour savoir quelle formation serait la plus adapt=E9e.
+
+Je pense que la formation E3 est plus appropri=E9e car bien que nous soyons=
+ pass=E9 =E0 E4 (luna) nous n'utilisons pas les principes de l'architecture=
+ e4 =E0 cause d'un bug sur la modification des =E9l=E9ments graphiques gr=
+=E2ce =E0 l'application model et les m=E9canismes d'injection principalemen=
+t (Les m=E9canismes fonctionnent lors de la cr=E9ation d'une application RC=
+P, ils ne fonctionnent pas directement pour la modification de l'IDE Eclips=
+e. https://bugs.eclipse.org/bugs/show_bug.cgi?id=3D376486 (Bug 376486).).<L=
+es%20m=E9canismes%20fonctionnent%20lors%20de%20la%20cr=E9ation%20d'une%20ap=
+plication%20RCP,%20ils%20ne%20fonctionnent%20pas%20directement%20pour%20la%=
+20modification%20de%20l'IDE%20Eclipse.=A0https:/bugs.eclipse.org/bugs/show_=
+bug.cgi?id=3D376486=A0(Bug%20376486).).>
+
+Pour te situer un peu ce que l'on fait :
+D=E9veloppement de plugins pour =E9tendre une Eclipse CDT.
+En r=E9sum=E9, nous ajoutons =E0 CDT, la gestion de projets d=E9di=E9s =E0 =
+notre processeur, avec :
+des toolchains
+une gestion des makefiles
+des configurations de debug ...
+un =E9diteur avec coloration syntaxique et autocompletion
+des viewers ...
+
+Les besoins restent classiques autour de la =AB philosophie =BB d'Eclipse m=
+ais il y a un point qu'il serait peut-=EAtre bien de creuser un peu c'est l=
+e DSF.
+On est rest=E9 sur CDI, J'avais commenc=E9 en ajoutant des LaunchDelegate p=
+articuli=E8res et en y associant les servicesLaunchSequence, GDBBackend et =
+autres GDBDebugServicesFactory... mon debug se lance mais il me manque les =
+infos thread, les vues Registers, la GDBConsole et Dissassembly sont vides.=
+.. il me manque des liens, des extensions... je ne sais pas quoi.
+
+Voil=E0 je crois que c'est tout, mais je peux d=E9velopper si tu as besoin =
+de plus d'informations.
+Que peux-tu nous proposer ?
+
+Je te remercie et peut-=EAtre =E0 bient=F4t =E0 Toulouse :)
+Christelle
+
+--_000_2A026F51AD5B0C46A9DEAED30AAB1C13040EC641SAFEX1MAIL5stco_
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40"><head><meta http-equiv=3DContent-Type content=
+=3D"text/html; charset=3Diso-8859-1"><meta name=3DGenerator content=3D"Micr=
+osoft Word 14 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{mso-style-priority:34;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:.5in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Arial","sans-serif";
+	color:#002052;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri","sans-serif";}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+/* List Definitions */
+@list l0
+	{mso-list-id:1853228406;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-1541486940 380141072 67698691 67698693 67698689 676=
+98691 67698693 67698689 67698691 67698693;}
+@list l0:level1
+	{mso-level-start-at:0;
+	mso-level-number-format:bullet;
+	mso-level-text:-;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:"Arial","sans-serif";
+	mso-fareast-font-family:Calibri;}
+@list l0:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l0:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l0:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l0:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l0:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l0:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l0:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l0:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DEN-US link=3Dblue vli=
+nk=3Dpurple><div class=3DWordSection1><p class=3DMsoNormal><span style=3D'f=
+ont-size:10.0pt;font-family:"Arial","sans-serif";color:#002052'>Bonjour Oli=
+vier,<o:p></o:p></span></p><p class=3DMsoNormal><span style=3D'font-size:10=
+.0pt;font-family:"Arial","sans-serif";color:#002052'><o:p>&nbsp;</o:p></spa=
+n></p><p class=3DMsoNormal><span lang=3DFR style=3D'font-size:10.0pt;font-f=
+amily:"Arial","sans-serif";color:#002052'>J&#8217;ai chang=E9 de projet r=
+=E9cemment et mon rempla=E7ant aurait besoin d&#8217;une formation. Mon anc=
+ien manager (en copie) souhaite l&#8217;inscrire et aurait besoin de tes co=
+nseils pour savoir quelle formation serait la plus adapt=E9e.<o:p></o:p></s=
+pan></p><p class=3DMsoNormal><span lang=3DFR style=3D'font-size:10.0pt;font=
+-family:"Arial","sans-serif";color:#002052'><o:p>&nbsp;</o:p></span></p><p =
+class=3DMsoNormal><span lang=3DFR style=3D'font-size:10.0pt;font-family:"Ar=
+ial","sans-serif";color:#002052'>Je pense que la formation E3 est plus appr=
+opri=E9e car bien que nous soyons pass=E9&nbsp;=E0 E4 (luna) nous n&#8217;u=
+tilisons pas les principes de l&#8217;architecture e4 =E0 cause d&#8217;un =
+bug sur la modification des =E9l=E9ments graphiques gr=E2ce =E0&nbsp;l&#821=
+7;application model&nbsp;et les m=E9canismes d&#8217;injection principaleme=
+nt (<a href=3D"Les%20m=E9canismes%20fonctionnent%20lors%20de%20la%20cr=E9at=
+ion%20d'une%20application%20RCP,%20ils%20ne%20fonctionnent%20pas%20directem=
+ent%20pour%20la%20modification%20de%20l'IDE%20Eclipse.&nbsp;https:/bugs.ecl=
+ipse.org/bugs/show_bug.cgi?id=3D376486&nbsp;(Bug%20376486).)."><span lang=
+=3DEN-US style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color=
+:windowtext;text-decoration:none'>Les m=E9canismes fonctionnent lors de la =
+cr=E9ation d&#8217;une application RCP, ils ne fonctionnent pas directement=
+ pour la modification de l&#8217;IDE Eclipse.&nbsp;https://bugs.eclipse.org=
+/bugs/show_bug.cgi?id=3D376486&nbsp;(Bug 376486).).</span></a> <o:p></o:p><=
+/span></p><p class=3DMsoNormal><span lang=3DFR style=3D'font-size:10.0pt;fo=
+nt-family:"Arial","sans-serif";color:#002052'><o:p>&nbsp;</o:p></span></p><=
+p class=3DMsoNormal><span lang=3DFR style=3D'font-size:10.0pt;font-family:"=
+Arial","sans-serif";color:#002052'>Pour te situer un peu ce que l&#8217;on =
+fait&nbsp;: <o:p></o:p></span></p><p class=3DMsoNormal><span lang=3DFR styl=
+e=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:#002052'>D=E9v=
+eloppement de plugins pour =E9tendre une Eclipse CDT.<o:p></o:p></span></p>=
+<p class=3DMsoNormal><span lang=3DFR style=3D'font-size:10.0pt;font-family:=
+"Arial","sans-serif";color:#002052'>En r=E9sum=E9, nous ajoutons =E0 CDT, l=
+a gestion de projets d=E9di=E9s =E0 notre processeur, avec&nbsp;:<o:p></o:p=
+></span></p><p class=3DMsoNormal><span lang=3DFR style=3D'font-size:10.0pt;=
+font-family:"Arial","sans-serif";color:#002052'>des toolchains <o:p></o:p><=
+/span></p><p class=3DMsoNormal><span lang=3DFR style=3D'font-size:10.0pt;fo=
+nt-family:"Arial","sans-serif";color:#002052'>une gestion des makefiles <o:=
+p></o:p></span></p><p class=3DMsoNormal><span lang=3DFR style=3D'font-size:=
+10.0pt;font-family:"Arial","sans-serif";color:#002052'>des configurations d=
+e debug &#8230; <o:p></o:p></span></p><p class=3DMsoNormal><span lang=3DFR =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:#002052'>u=
+n =E9diteur avec coloration syntaxique et autocompletion<o:p></o:p></span><=
+/p><p class=3DMsoNormal><span lang=3DFR style=3D'font-size:10.0pt;font-fami=
+ly:"Arial","sans-serif";color:#002052'>des viewers ...<o:p></o:p></span></p=
+><p class=3DMsoNormal><span lang=3DFR style=3D'font-size:10.0pt;font-family=
+:"Arial","sans-serif";color:#002052'><o:p>&nbsp;</o:p></span></p><p class=
+=3DMsoNormal><span lang=3DFR style=3D'font-size:10.0pt;font-family:"Arial",=
+"sans-serif";color:#002052'>Les besoins restent classiques autour de la =AB=
+&nbsp;philosophie&nbsp;=BB d&#8217;Eclipse mais il y a un point qu&#8217;il=
+ serait peut-=EAtre bien de creuser un peu c&#8217;est le DSF.<o:p></o:p></=
+span></p><p class=3DMsoNormal><span lang=3DFR style=3D'font-size:10.0pt;fon=
+t-family:"Arial","sans-serif";color:#002052'>On est rest=E9 sur CDI, J&#821=
+7;avais commenc=E9 en ajoutant des LaunchDelegate particuli=E8res et en y a=
+ssociant les servicesLaunchSequence, GDBBackend et autres GDBDebugServicesF=
+actory&#8230; mon debug se lance mais il me manque les infos thread, les vu=
+es Registers, la GDBConsole et Dissassembly sont vides&#8230; il me manque =
+des liens, des extensions&#8230; je ne sais pas quoi.<o:p></o:p></span></p>=
+<p class=3DMsoNormal><span lang=3DFR style=3D'font-size:10.0pt;font-family:=
+"Arial","sans-serif";color:#002052'><o:p>&nbsp;</o:p></span></p><p class=3D=
+MsoNormal><span lang=3DFR style=3D'font-size:10.0pt;font-family:"Arial","sa=
+ns-serif";color:#002052'>Voil=E0 je crois que c&#8217;est tout, mais je peu=
+x d=E9velopper si tu as besoin de plus d&#8217;informations.<o:p></o:p></sp=
+an></p><p class=3DMsoNormal><span lang=3DFR style=3D'font-size:10.0pt;font-=
+family:"Arial","sans-serif";color:#002052'>Que peux-tu nous proposer&nbsp;?=
+<o:p></o:p></span></p><p class=3DMsoNormal><span lang=3DFR style=3D'font-si=
+ze:10.0pt;font-family:"Arial","sans-serif";color:#002052'><o:p>&nbsp;</o:p>=
+</span></p><p class=3DMsoNormal><span lang=3DFR style=3D'font-size:10.0pt;f=
+ont-family:"Arial","sans-serif";color:#002052'>Je te remercie et peut-=EAtr=
+e =E0 bient=F4t =E0 Toulouse&nbsp;</span><span lang=3DFR style=3D'font-size=
+:10.0pt;font-family:Wingdings;color:#002052'>J</span><span lang=3DFR style=
+=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:#002052'><o:p><=
+/o:p></span></p><p class=3DMsoNormal><span lang=3DFR style=3D'font-size:10.=
+0pt;font-family:"Arial","sans-serif";color:#002052'>Christelle<o:p></o:p></=
+span></p></div></body></html>=
+
+--_000_2A026F51AD5B0C46A9DEAED30AAB1C13040EC641SAFEX1MAIL5stco_--
